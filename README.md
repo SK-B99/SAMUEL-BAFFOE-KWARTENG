@@ -7,7 +7,7 @@ AI & ML Engineer | Energy Engineer | Researcher
 [Link to my research profile](http://orcid.org/0009-0006-4126-6798)  
 
 ### Technical Skills  
-- **Programming Languages:** Python, SQL, AWS, Snowflake, MATLAB, Rust, C#, JavaScript, C/ROOT, Octave  
+- **Programming Languages:** Python, SQL, AWS, MATLAB, Rust, C#, Octave  
 - **Tools:** Homer (Renewable Energy Simulation), AutoCAD, Gazebo  
 
 ## Education  
